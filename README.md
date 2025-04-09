@@ -5,3 +5,5 @@
 [Certificado Flutter](Certificado_Flutter_Masterclass.pdf)
 
 [Certificado Android e Kotlin](Certificado_Android_e_Kotlin_na_criacao_de_apps.pdf)
+
+[Certificado Dart Language](Certificado_Dart_Language_Guide.pdf)
